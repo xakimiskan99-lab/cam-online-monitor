@@ -767,3 +767,5 @@ time_utc,platform,http_status,status,error,models_online,viewers_online
 2026-10-31T18:29:36.203840+00:00,stripchat,200,ok,,,
 2026-10-31T19:15:29.447823+00:00,chaturbate,403,error,HTTP Error 403: Forbidden,,
 2026-10-31T19:15:29.608328+00:00,stripchat,406,error,HTTP Error 406: Not Acceptable,,
+2026-10-31T19:51:19.124273+00:00,chaturbate,403,error,HTTP Error 403: Forbidden,,
+2026-10-31T19:51:19.158586+00:00,stripchat,406,error,HTTP Error 406: Not Acceptable,,
